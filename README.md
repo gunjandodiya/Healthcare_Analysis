@@ -21,5 +21,16 @@ This Power BI dashboard analyzes over **55.5K patient records** across **10 majo
 - Live Power BI dashboard link : https://app.powerbi.com/view?r=eyJrIjoiZmE0ZDU4MzUtMTJjNS00ODFlLWI1NDktMWMwY2MzNjBjNjE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 - Sample screenshots of the report views
 
+  🎓 Learning Outcomes
+- Data Exploration: Gained hands-on experience in cleaning, modeling, and analyzing a large-scale healthcare dataset with 55K+ records.
+
+- Advanced Power BI Skills: Mastered the use of Field Parameters, custom visuals and multi-page report design for interactive storytelling.
+
+- Data-Driven Decision Making: Learned how to derive actionable insights to support strategic decisions in healthcare operations, cost analysis, and patient care.
+
+- Visualization Best Practices: Applied clean, minimalist design techniques and built intuitive navigation for non-technical stakeholders.
+
+- Team Collaboration: Strengthened collaboration and communication skills by working with peers, sharing feedback, and aligning on design decisions.
+
 
 
